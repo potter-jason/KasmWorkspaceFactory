@@ -1,0 +1,20 @@
+{
+  "friendly_name": "Docker-Wine-Kasm",
+  "image_src": "docker-wine-kasm.png",
+  "description": null,
+  "name": "docker.io/library/dockerkasmwine2",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Communication"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
